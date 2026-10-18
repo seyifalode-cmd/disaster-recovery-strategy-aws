@@ -1,6 +1,8 @@
-# disaster-recovery-strategy-aws
-Enterprise Disaster Recovery Strategy with RTO/RPO design, hybrid cloud architecture, and 3-2-1 backup model (CloudOps &amp; Security project)
-# 🚨 Disaster Recovery Strategy (CloudOps & Security)
+# Disaster Recovery Strategy — AWS Hybrid Cloud
+
+Oluwaseyi Michael Falode | Cloud & Cybersecurity | Toronto, ON
+
+Enterprise disaster recovery strategy with RTO/RPO design, hybrid cloud architecture, and a 3-2-1 backup model.
 
 ## 📖 Overview
 This project presents a **Disaster Recovery (DR) Strategy** designed to ensure business continuity, system resilience, and rapid recovery of critical services in the event of a disruption.
@@ -70,11 +72,6 @@ Implemented using the **3-2-1 Backup Rule**:
 
 ---
 
-## 📂 Project File
-📄 [Download Disaster Recovery Strategy](./FalodeOluwaseyiMichaelLab1.pdf)
-
----
-
 ## 🧠 What I Learned
 - Translating BIA and BCP into actionable DR strategy
 - Designing resilient hybrid cloud architectures
@@ -83,5 +80,7 @@ Implemented using the **3-2-1 Backup Rule**:
 
 ---
 
-## 👤 Author (Falode Oluwaseyi Michael)**  
+## 👤 Author
+
+**Oluwaseyi Michael Falode**  
 CloudOps | Cybersecurity | DevSecOps  
